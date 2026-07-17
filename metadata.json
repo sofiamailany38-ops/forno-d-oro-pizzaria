@@ -1,0 +1,6 @@
+{
+  "name": "Forno D’Oro Pizzaria",
+  "description": "Site profissional, artesanal e moderno da Forno D'Oro Pizzaria - O sabor da tradição em cada fatia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
